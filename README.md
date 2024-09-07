@@ -53,3 +53,6 @@
 
 <img width="960" alt="Screenshot 4" src="https://github.com/user-attachments/assets/d9f85929-b58d-475d-8837-a0790ad63e5e">
 
+## *Deployment*
+
+This project is deployed on Render, you can go and check it: https://chat-app-zmz1.onrender.com
